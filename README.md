@@ -1,3 +1,5 @@
+Performed Indepth analysis on  sales data with the help of Power BI
+
 # Sales-Insights
 
 Steps Covered:
